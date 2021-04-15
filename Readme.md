@@ -1,3 +1,5 @@
+**UPDATE: Finally Debian 7 is available at https://hub.docker.com/r/debian/eol, use image from here**
+
 # Readme
 
 This repository contains my Debian 7 dockerfile which I use on some environment haven't been migrated yet.
